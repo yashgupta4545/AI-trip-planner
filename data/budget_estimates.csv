@@ -1,0 +1,34 @@
+category,tier_name,scope,base_daily_inr,notes
+transport,Flight,Domestic,4500.0,Average domestic one-way flight per passenger
+transport,Flight,International,18000.0,Average international round-trip flight estimate per passenger
+transport,Train (Express / AC),Domestic,1500.0,AC 3-Tier/2-Tier express train reservation
+transport,Intercity Bus,Domestic,900.0,Volvo / AC Sleeper intercity bus
+transport,Self-drive / Rental Car,Domestic,3200.0,Daily rental car with fuel allowance
+transport,Local Public Transit,Any,350.0,Daily metro/bus pass and regional rides
+accommodation,Hostel / Backpacker Pod,Domestic,600.0,Shared dorm bed in verified travel hostel
+accommodation,Hostel / Backpacker Pod,International,2200.0,International dorm bed or pod hotel
+accommodation,Budget Hotel / Guesthouse,Domestic,1400.0,Private clean double room with private bath
+accommodation,Budget Hotel / Guesthouse,International,4500.0,Standard 2-star room in city center
+accommodation,Mid-range 3-Star Hotel,Domestic,3000.0,Comfortable 3-star hotel with breakfast
+accommodation,Mid-range 3-Star Hotel,International,8500.0,3-star comfortable international hotel
+accommodation,Boutique / 4-Star Hotel,Domestic,6500.0,Premium boutique or 4-star property
+accommodation,Boutique / 4-Star Hotel,International,16000.0,Boutique central 4-star lodging
+accommodation,5-Star Luxury Resort,Domestic,15000.0,Luxury 5-star heritage palace or resort
+accommodation,5-Star Luxury Resort,International,35000.0,International luxury 5-star brand
+food,Street Food & Local Dhabas,Domestic,400.0,Authentic street food stalls and traditional dhabas
+food,Street Food & Local Dhabas,International,1500.0,Street food markets and casual bakeries
+food,Casual Dining & Cafes,Domestic,900.0,Air-conditioned cafes and mid-range restaurants
+food,Casual Dining & Cafes,International,3200.0,Sit-down cafes and bistros
+food,Fine Dining & Multi-Cuisine,Domestic,2400.0,Gourmet multi-course dining and rooftop lounges
+food,Fine Dining & Multi-Cuisine,International,8000.0,Michelin or fine-dining multi-course dinners
+local_transport,Walking & Public Transit,Domestic,200.0,Metro tokens and city bus passes
+local_transport,Walking & Public Transit,International,800.0,City day transit cards
+local_transport,Auto Rickshaw / Taxi / Rideshare,Domestic,600.0,"Tuk-tuks, Ola/Uber city hops"
+local_transport,Auto Rickshaw / Taxi / Rideshare,International,2500.0,City taxis and rideshare
+local_transport,Chauffeured Private Car,Domestic,2200.0,Full-day dedicated private car with driver
+local_transport,Chauffeured Private Car,International,9000.0,Dedicated private executive car
+activities,Free & Self-Guided,Any,150.0,"Free public monuments, beaches, and parks"
+activities,Moderate Sightseeing,Domestic,500.0,Museum passes and heritage fort tickets
+activities,Moderate Sightseeing,International,2000.0,Standard monument and gallery admissions
+activities,All-Inclusive & Adventure Sports,Domestic,1800.0,"Guided safaris, rafting, and cable cars"
+activities,All-Inclusive & Adventure Sports,International,6000.0,"Theme parks, scuba diving, and boat charters"
